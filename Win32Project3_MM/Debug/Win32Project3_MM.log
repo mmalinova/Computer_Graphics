@@ -1,0 +1,23 @@
+﻿Build started 10/11/2020 8:27:31 PM.
+     1>Project "C:\Users\malin\Desktop\Elly\IV_course\KG\SevenLines_Win32_Project_MM\Win32Project3_MM\Win32Project3_MM.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Win32Project3_MM.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Win32Project3_MM.cpp
+         Win32Project3_MM.cpp
+     1>c:\users\malin\desktop\elly\iv_course\kg\sevenlines_win32_project_mm\win32project3_mm\win32project3_mm.cpp(211): warning C4244: 'argument' : conversion from 'double' to 'INT', possible loss of data
+     1>c:\users\malin\desktop\elly\iv_course\kg\sevenlines_win32_project_mm\win32project3_mm\win32project3_mm.cpp(224): warning C4244: 'argument' : conversion from 'double' to 'INT', possible loss of data
+     1>c:\users\malin\desktop\elly\iv_course\kg\sevenlines_win32_project_mm\win32project3_mm\win32project3_mm.cpp(227): warning C4244: 'argument' : conversion from 'double' to 'INT', possible loss of data
+     1>c:\users\malin\desktop\elly\iv_course\kg\sevenlines_win32_project_mm\win32project3_mm\win32project3_mm.cpp(230): warning C4244: 'argument' : conversion from 'double' to 'INT', possible loss of data
+     1>c:\users\malin\desktop\elly\iv_course\kg\sevenlines_win32_project_mm\win32project3_mm\win32project3_mm.cpp(233): warning C4244: 'argument' : conversion from 'double' to 'INT', possible loss of data
+     1>c:\users\malin\desktop\elly\iv_course\kg\sevenlines_win32_project_mm\win32project3_mm\win32project3_mm.cpp(236): warning C4244: 'argument' : conversion from 'double' to 'INT', possible loss of data
+     1>c:\users\malin\desktop\elly\iv_course\kg\sevenlines_win32_project_mm\win32project3_mm\win32project3_mm.cpp(239): warning C4244: 'argument' : conversion from 'double' to 'INT', possible loss of data
+     1>c:\users\malin\desktop\elly\iv_course\kg\sevenlines_win32_project_mm\win32project3_mm\win32project3_mm.cpp(242): warning C4244: 'argument' : conversion from 'double' to 'INT', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\malin\Desktop\Elly\IV_course\KG\SevenLines_Win32_Project_MM\Debug\Win32Project3_MM.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\malin\Desktop\Elly\IV_course\KG\SevenLines_Win32_Project_MM\Debug\Win32Project3_MM.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\malin\Desktop\Elly\IV_course\KG\SevenLines_Win32_Project_MM\Debug\Win32Project3_MM.lib" /MACHINE:X86 Debug\Win32Project3_MM.res
+         Debug\stdafx.obj
+         Debug\Win32Project3_MM.obj
+         Win32Project3_MM.vcxproj -> C:\Users\malin\Desktop\Elly\IV_course\KG\SevenLines_Win32_Project_MM\Debug\Win32Project3_MM.exe
+     1>Done Building Project "C:\Users\malin\Desktop\Elly\IV_course\KG\SevenLines_Win32_Project_MM\Win32Project3_MM\Win32Project3_MM.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.67
