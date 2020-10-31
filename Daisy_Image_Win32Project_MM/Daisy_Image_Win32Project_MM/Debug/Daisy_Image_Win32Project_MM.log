@@ -1,0 +1,21 @@
+﻿Build started 10/31/2020 4:18:11 PM.
+     1>Project "C:\Users\malin\Desktop\Elly\IV_course\KG\Daisy_Image_Win32Project_MM\Daisy_Image_Win32Project_MM\Daisy_Image_Win32Project_MM.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Daisy_Image_Win32Project_MM.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Daisy_Image_Win32Project_MM.cpp
+         Daisy_Image_Win32Project_MM.cpp
+     1>c:\users\malin\desktop\elly\iv_course\kg\daisy_image_win32project_mm\daisy_image_win32project_mm\daisy_image_win32project_mm.cpp(266): warning C4244: 'argument' : conversion from 'double' to 'INT', possible loss of data
+     1>c:\users\malin\desktop\elly\iv_course\kg\daisy_image_win32project_mm\daisy_image_win32project_mm\daisy_image_win32project_mm.cpp(269): warning C4244: 'argument' : conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+     1>c:\users\malin\desktop\elly\iv_course\kg\daisy_image_win32project_mm\daisy_image_win32project_mm\daisy_image_win32project_mm.cpp(269): warning C4244: 'argument' : conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+     1>c:\users\malin\desktop\elly\iv_course\kg\daisy_image_win32project_mm\daisy_image_win32project_mm\daisy_image_win32project_mm.cpp(283): warning C4244: 'argument' : conversion from 'double' to 'INT', possible loss of data
+     1>c:\users\malin\desktop\elly\iv_course\kg\daisy_image_win32project_mm\daisy_image_win32project_mm\daisy_image_win32project_mm.cpp(286): warning C4244: 'argument' : conversion from 'double' to 'INT', possible loss of data
+     1>c:\users\malin\desktop\elly\iv_course\kg\daisy_image_win32project_mm\daisy_image_win32project_mm\daisy_image_win32project_mm.cpp(367): warning C4244: 'argument' : conversion from 'double' to 'INT', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\malin\Desktop\Elly\IV_course\KG\Daisy_Image_Win32Project_MM\Debug\Daisy_Image_Win32Project_MM.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\malin\Desktop\Elly\IV_course\KG\Daisy_Image_Win32Project_MM\Debug\Daisy_Image_Win32Project_MM.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\malin\Desktop\Elly\IV_course\KG\Daisy_Image_Win32Project_MM\Debug\Daisy_Image_Win32Project_MM.lib" /MACHINE:X86 Debug\Daisy_Image_Win32Project_MM.res
+         Debug\Daisy_Image_Win32Project_MM.obj
+         Debug\stdafx.obj
+         Daisy_Image_Win32Project_MM.vcxproj -> C:\Users\malin\Desktop\Elly\IV_course\KG\Daisy_Image_Win32Project_MM\Debug\Daisy_Image_Win32Project_MM.exe
+     1>Done Building Project "C:\Users\malin\Desktop\Elly\IV_course\KG\Daisy_Image_Win32Project_MM\Daisy_Image_Win32Project_MM\Daisy_Image_Win32Project_MM.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.23
